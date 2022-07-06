@@ -4,7 +4,7 @@
 <p>
   Responsive Website with HTML, CSS, Flexbox, CSS Grid &amp; More by <strong>Traversy Media</strong>
   
-  This is just a duplicate website of what Brad did in his tutorial.
+  This is a duplicate website of what Brad did in his tutorial. The code is not mine, I just followed along with the video so I could understand Bootstrap more.
 	
   Some things that I added/changed:
   <ul>
