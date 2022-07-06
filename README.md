@@ -9,5 +9,5 @@ Some things that I added/changed:
 * Changed the form's responsiveness for smaller devices
 * Added a favicon
 
-Tutorial Link: <https://www.youtube.com/watch?v=p0bGHP-PXD4>
+Tutorial Link: <https://www.youtube.com/watch?v=p0bGHP-PXD4>  
 My Live Link: <https://krau-host.netlify.app/>
